@@ -1,0 +1,15 @@
+.LoginForm {
+  display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: 0 auto;
+}
+.LoginForm input,
+.LoginForm button {
+  margin-bottom: 10px;
+}
+
+.LoginForm p {
+  color: red;
+  margin-bottom: 10px;
+}
